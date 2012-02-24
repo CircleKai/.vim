@@ -1,0 +1,20 @@
+CircleKai's Vim config
+======================
+
+~/.vim/
+
+
+Plugin
+------
+
+[Pathogen](https://github.com/tpope/vim-pathogen)
+[Cscope](http://cscope.sourceforge.net/cscope_maps.vim)
+
+
+Refference
+----------
+
+[vgod's vimrc](https://github.com/vgod/vimrc)
+[Raphanus's vimrc](https://github.com/COLDTURNIP/vimrc)
+[Synchronizing plugins with git submodules and pathogen](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/)
+
